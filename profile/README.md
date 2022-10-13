@@ -24,7 +24,7 @@ Somos Team Alpha y en este ciclo nos hemos reunido 5 integrantes de MisionTIC 20
 
 ## Lenguajes
 
-Los siguientes lenguajes y herramientas se van a utilizar en el desarrollo del proyecto para el ciclo 3 - MisionTIC 2022:
+Los siguientes lenguajes y herramientas se van a utilizar en el desarrollo del proyecto para el Ciclo 4 - MisionTIC 2022:
 
 * `HTML`,`CSS`,`JavaScript`
 * `Node.js`
