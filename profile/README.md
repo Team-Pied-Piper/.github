@@ -1,7 +1,7 @@
 <h1 align="center"> Pied Piper </h1> <br>
 <p align="center">
   <a>
-    <img alt="Pied Piper" title="Pied Piper" src="https://drive.google.com/uc?id=1c1C-JWqXgpbt-KH9USY1ouQh8UEF8O8o" width="450">
+    <img alt="Pied Piper" title="Pied Piper" src="https://drive.google.com/uc?id=1qWvwd06lYftCKqxxoKl-ZZdUWWXPmr22" width="700">
   </a>
 </p>
 
