@@ -38,7 +38,7 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
 ## Sprints
 <p align="center">
   <a>
-    <img alt="Sprints" title="Sprints" src="https://drive.google.com/uc?id=1LI7SY2TnO5j_NEix4ZTt_ng55Ts0Swr4" width="450">
+    <img alt="Sprints" title="Sprints" src="https://drive.google.com/uc?id=1ySgnD5RQlAj91SoMbMaWhGnkP8tQAm5j" width="450">
   </a>
 </p>
 
