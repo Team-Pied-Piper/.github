@@ -19,7 +19,7 @@
 
 ## Introduccion
 
-Somos Team Alpha y en este ciclo nos hemos reunido 5 integrantes de MisionTIC 2022, para poner a prueba nuestros conocimientos y desarrollar un proyecto de software en equipo.
+Somos **Pied Piper** y en este ciclo nos hemos reunido 5 integrantes de MisionTIC 2022, para poner a prueba nuestros conocimientos y desarrollar un proyecto de software en equipo.
 
 
 ## Lenguajes
