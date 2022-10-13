@@ -42,7 +42,7 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
   </a>
 </p>
 
-- [Sprint 1](https://github.com/TEAM-ALPHA-2022/Sprint1)
+- [Sprint 1](https://github.com/Team-Pied-Piper/Sprint1)
 
 
 ## Team
