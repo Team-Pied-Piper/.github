@@ -47,8 +47,8 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
 
 ## Team
 
-<table class="center">
+<table style="margin: 0px auto;">
   <tr>
-<td align="center"><a href="https://github.com/michaeling10"><img src="https://avatars.githubusercontent.com/u/63517857?s=96&v=4" width="100px;" alt="Michael Caceres"/><br /><sub><b>Michael Caceres</b></sub></a><br /> <a title="Code">💻</a> </td> 
+    <td align="center"><a href="https://github.com/michaeling10"><img src="https://avatars.githubusercontent.com/u/63517857?s=96&v=4" width="100px;" alt="Michael Caceres"/><br /><sub><b>Michael Caceres</b></sub></a><br /> <a title="Code">💻</a> </td> 
   </tr> 
 </table>
