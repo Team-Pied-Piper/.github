@@ -49,6 +49,9 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
 
 <table style="margin: 0px auto;">
   <tr>
-    <td align="center"><a href="https://github.com/michaeling10"><img src="https://avatars.githubusercontent.com/u/63517857?s=96&v=4" width="100px;" alt="Michael Caceres"/><br /><sub><b>Michael Caceres</b></sub></a><br /> <a title="Code">💻</a> </td> 
+    <td align="center"><a href="https://github.com/michaeling10"><img src="https://avatars.githubusercontent.com/u/63517857?s=96&v=4" width="100px;" alt="Michael Caceres"/><br /><sub><b>Michael Caceres</b></sub></a><br /> <a title="Code">💻</a></td> <td align="center"><a href="https://github.com/miltonf10"><img src="https://avatars.githubusercontent.com/u/30483663?v=4" width="100px;" alt="Milton Peña"/><br /><sub><b>Milton Peña</b></sub></a><br /> <a title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sergiomilan24"><img src="https://avatars.githubusercontent.com/u/64939808?v=4" width="100px;" alt="Sergio Vargas"/><br /><sub><b>Sergio Vargas</b></sub></a><br /> <a title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/diegoarteag95"><img src="https://avatars.githubusercontent.com/u/85379445?v=4" width="100px;" alt="Diego Arteaga"/><br /><sub><b>Diego Arteaga</b></sub></a><br /> <a title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SebassBuiless"><img src="https://avatars.githubusercontent.com/u/111552081?v=4" width="100px;" alt="Sebastian Builes"/><br /><sub><b>Sebastian Builes</b></sub></a><br /> <a title="Code">💻</a></td>
   </tr> 
 </table>
