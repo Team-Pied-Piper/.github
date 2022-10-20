@@ -43,7 +43,7 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
 </p>
 
 - [Sprint 1](https://github.com/Team-Pied-Piper/Sprint1)
-
+- [Sprint 2](https://github.com/Team-Pied-Piper/Sprint2)
 
 ## Team
 
